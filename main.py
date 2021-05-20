@@ -3,11 +3,11 @@ import random
 
 
 questions_and_answers={
-1:["What are the most common symptoms of covid-19?",'dry cough, fever, tiredness','headaches, neck pain, sore throat', 'chest pain, conjunctivitis, sneezing', 'rashes','chest pain, hair loss',1]
-2:["What is the most commonly used covid-19 vaccine used in New Zealand?",'Moderna Vaccine', 'Johnson & Johnson’s Janssen Vaccine' , 'Pfizer-BioNTech Vaccine',3]
-3:["What does wearing a mask do to prevent getting covid-19?",'Nothing.', 'It helps by keeping your mouth covered and not exposed to bacteria and other peoples germs' , 'It prevents people from looking at your face.',3]
-4:["Which Alert Level insrtucts you to stay inside your bubble, only going out for the essentials?",'Alert Level 3','Alert Level 4', 'Alert Level 5',3]
-5:[]
+1:["What are the most common symptoms of covid-19?",'dry cough, fever, tiredness','headaches, neck pain, sore throat', 'chest pain, conjunctivitis, sneezing', 'rashes','chest pain, hair loss',0],
+2:["What is the most commonly used covid-19 vaccine in New Zealand?",'Moderna Vaccine', 'Johnson & Johnson’s Janssen Vaccine', 'Pfizer-BioNTech Vaccine',2],
+3:["What does wearing a mask do to prevent getting covid-19?",'Nothing.', 'It helps by keeping your mouth covered and not exposed to bacteria and other peoples germs' , 'It prevents people from looking at your face.',2],
+4:["Which Alert Level insrtucts you to stay inside your bubble, only going out for the essentials?",'Alert Level 3','Alert Level 4', 'Alert Level 5',1],
+5:["Which country has the most Covid-19 cases?",'Russia', 'United States of America', 'India',1],
 
 }
 
@@ -84,5 +84,3 @@ name_list = []
 asked = []
 score = 0
 """
-
-""""
